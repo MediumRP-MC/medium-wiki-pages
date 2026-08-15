@@ -1,0 +1,80 @@
+{
+  "categories": [
+    {
+      "id": "getting-started",
+      "title": "Основы сервера",
+      "icon": "Compass",
+      "articles": [
+        {
+          "slug": "getting-started",
+          "file": "basics/getting-started.mdx",
+          "title": "Начало игры и первые шаги",
+          "description": "Гайд по первому входу, получению паспорта и выбору начальной роли."
+        },
+        {
+          "slug": "keybinds",
+          "file": "basics/keybinds.mdx",
+          "title": "Управление и бинды",
+          "description": "Горячие клавиши, меню профессий и голосовой чат."
+        }
+      ]
+    },
+    {
+      "id": "jobs",
+      "title": "Профессии и Роли",
+      "icon": "ShieldAlert",
+      "articles": [
+        {
+          "slug": "jobs/police",
+          "file": "jobs/police.mdx",
+          "title": "Полиция и Милиция",
+          "description": "Охрана правопорядка, аресты, задержание преступников и патрулирование."
+        },
+        {
+          "slug": "jobs/bandit",
+          "file": "jobs/bandit.mdx",
+          "title": "Криминал: Бандиты и Гопники",
+          "description": "Взлом дверей, грабежи, вымогательство и криминальные синдикаты."
+        },
+        {
+          "slug": "jobs/mayor",
+          "file": "jobs/mayor.mdx",
+          "title": "Мэр города",
+          "description": "Управление налогами, комендантский час и законы города."
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "title": "Экономика и Бизнес",
+      "icon": "Coins",
+      "articles": [
+        {
+          "slug": "economy/money-printers",
+          "file": "economy/money-printers.mdx",
+          "title": "Денежные принтеры",
+          "description": "Виды маников, система охлаждения, чернила и заработок."
+        },
+        {
+          "slug": "economy/banking",
+          "file": "economy/banking.mdx",
+          "title": "Банки и Вклады",
+          "description": "Хранение денег, проценты по депозитам и банкоматы."
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "title": "Правила проекта",
+      "icon": "ScrollText",
+      "articles": [
+        {
+          "slug": "rules/general",
+          "file": "rules/general.mdx",
+          "title": "Общие правила DarkRP",
+          "description": "Термины NonRP, FearRP, FreeKill, NLR и регламент наказаний."
+        }
+      ]
+    }
+  ]
+}
